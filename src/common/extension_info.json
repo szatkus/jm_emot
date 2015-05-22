@@ -1,0 +1,12 @@
+{
+    "content_scripts": [], 
+    "description": "Rozszerzenie wprowadza możliwość dodawania własnych ikon na forum JoeMonster.org", 
+    "creator": "szatkus",
+    "homepage_url": "https://szatkus.pl/", 
+    "version": "1.0.1",
+    "options_page": "options.html",
+    "content_scripts": [
+        "inject.js"
+    ],
+    "name": "Joemonster - Ikony"
+}
